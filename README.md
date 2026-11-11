@@ -65,7 +65,7 @@ I'm always happy to connect, exchange ideas, and meet people interested in techn
 
 ## Featured Projects
 
-### 01. MindsEye - Real-Time Productivity Intelligence
+### 01. MindsEye(https://github.com/LeFocus/.github) - Real-Time Productivity Intelligence
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -74,11 +74,10 @@ I'm always happy to connect, exchange ideas, and meet people interested in techn
 
 Mindseye is an applied neuroscience application that combines EEG brainwave signals and eye-tracking data to estimate focus levels in real time. Powered by FastAPI, React, and XGBoost, MindsEye processes synchronized data from a Muse EEG headset and MediaPipe iris tracking to visualize personal statistics, productivity scores, leaderboards and enable live focus competitions with friends.
 
-**Repository:** [MindsEye GitHub Repo](https://github.com/LeFocus/.github)
 
 </details>
 
-### 02. Event Flow - Android Application
+### 02. Event Flow(https://github.com/CMPUT301W26matrix1/matrix1-events) - Android Application
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -93,11 +92,10 @@ This is the repository for the group project for team `matrix1` in CMPUT 301 at 
 - [Project Wiki](https://github.com/CMPUT301W26matrix1/matrix1-events/wiki)
 - [Javadocs](https://github.com/CMPUT301W26matrix1/matrix1-events/tree/main/code/javadoc)
 
-**Repository:** [Event Flow on GitHub](https://github.com/CMPUT301W26matrix1/matrix1-events)
 
 </details>
 
-### 03. Otto - Automated Repository Security Scanner
+### 03. Otto(https://github.com/349gill/otto) - Automated Repository Security Scanner
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -120,8 +118,6 @@ otto setup -e production
 ```
 
 This writes `.github/workflows/production.yml`. Commit and push this file to your repository. When any pull request is opened or updated, Otto triggers a scan and posts review comments.
-
-**Repository:** [Otto GitHub Repo](https://github.com/349gill/otto)
 
 </details>
 
