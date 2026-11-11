@@ -1,4 +1,4 @@
-# Hi there!
+# Farhat Samiha Chowa
 
 <div align="center">
 
@@ -17,7 +17,7 @@
 
 ## About Me
 
-Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University of Alberta**, pursuing a Bachelor of Science degree.
+Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University of Alberta**, pursuing a Bachelor of Science degree with an expected graduation in 2028.
 
 I'm passionate about software development and enjoy turning ideas into functional applications. Through coursework and personal projects, I've been developing my programming skills, exploring different technologies, and gaining hands-on experience with software and database systems.
 
@@ -131,21 +131,6 @@ This writes `.github/workflows/production.yml`. Commit and push this file to you
 
 I'm always happy to connect, exchange ideas, and meet people interested in technology and software development.
 
-<div align="center">
+<div align="center"><a href="mailto:farhat.samiha73@gmail.com"> <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a><a href="https://www.linkedin.com/in/farhat-samiha-chowa/"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a></div>
 
-<a href="mailto: farhat.samiha73@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/farhat-samiha-chowa/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" />
-
-</div>
+<!-- ==================== FOOTER ==================== --><div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=100&section=footer" width="100%" /></div> ```
