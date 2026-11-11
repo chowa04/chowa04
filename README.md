@@ -15,41 +15,50 @@ Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University
 
 I'm passionate about software development and enjoy turning ideas into functional applications. Through coursework and personal projects, I've been developing my programming skills, exploring different technologies, and gaining hands-on experience with software and database systems.
 
-I enjoy learning by building, experimenting with new tools, and solving problems through code.
-
 ---
 
 ## Tech Stack
 
-### Programming Languages
+**Programming Languages**
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" />
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### Frontend Development
+**Frameworks and Tools**
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" />
 </p>
 
-### Backend & Databases
+**Databases**
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,fastapi,sqlite,mongodb,firebase&theme=dark" />
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-### Tools & Platforms
+**Machine Learning**
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" />
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
 </p>
 
 ---
 
 ## Featured Projects
 
-### 01. MindsEye — Real-Time Productivity Intelligence
+### 01. MindsEye - Real-Time Productivity Intelligence
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -62,7 +71,7 @@ Mindseye is an applied neuroscience application that combines EEG brainwave sign
 
 </details>
 
-### 02. Event Flow — Android Application
+### 02. Event Flow - Android Application
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -81,7 +90,7 @@ This is the repository for the group project for team `matrix1` in CMPUT 301 at 
 
 </details>
 
-### 03. Otto — Automated Repository Security Scanner
+### 03. Otto - Automated Repository Security Scanner
 
 <details>
 <summary><strong>View Project Details</strong></summary>
