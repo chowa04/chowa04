@@ -17,7 +17,7 @@
 
 ## About Me
 
-Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University of Alberta**, pursuing a Bachelor of Science degree with an expected graduation in 2028.
+Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University of Alberta**, pursuing a Bachelor of Science degree.
 
 I'm passionate about software development and enjoy turning ideas into functional applications. Through coursework and personal projects, I've been developing my programming skills, exploring different technologies, and gaining hands-on experience with software and database systems.
 
