@@ -65,7 +65,7 @@ I'm always happy to connect, exchange ideas, and meet people interested in techn
 
 ## Featured Projects
 
-### 01. MindsEye(https://github.com/LeFocus/.github) - Real-Time Productivity Intelligence
+### 01. <a href="https://github.com/LeFocus/.github">MindsEye</a> — Real-Time Productivity Intelligence
 
 <details>
 <summary><strong>View Project Details</strong></summary>
@@ -77,8 +77,7 @@ Mindseye is an applied neuroscience application that combines EEG brainwave sign
 
 </details>
 
-### 02. Event Flow(https://github.com/CMPUT301W26matrix1/matrix1-events) - Android Application
-
+### 02. <a href="https://github.com/CMPUT301W26matrix1/matrix1-events">Event Flow</a> — Android Application
 <details>
 <summary><strong>View Project Details</strong></summary>
 
@@ -95,8 +94,7 @@ This is the repository for the group project for team `matrix1` in CMPUT 301 at 
 
 </details>
 
-### 03. Otto(https://github.com/349gill/otto) - Automated Repository Security Scanner
-
+### 03. <a href="https://github.com/349gill/otto">Otto</a> — Automated Repository Security Scanner
 <details>
 <summary><strong>View Project Details</strong></summary>
 
