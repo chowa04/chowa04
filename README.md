@@ -6,15 +6,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=21&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computing+Science+Student;Aspiring+Software+Engineer;Building+and+learning+one+project+at+a+time" alt="Typing SVG" />
 
-<br/>
-
-<img src="https://img.shields.io/badge/University%20of%20Alberta-007C41?style=for-the-badge&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/BSc-Computing%20Science-1F6FEB?style=for-the-badge" />
-
 </div>
 
 ---
-
 ## About Me
 
 Hi! I'm **Farhat Samiha Chowa**, a Computing Science student at the **University of Alberta**, pursuing a Bachelor of Science degree.
