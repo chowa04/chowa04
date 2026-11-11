@@ -1,7 +1,4 @@
-<div style="display: flex; align-items: center; gap: 10px;">
-  <h1 style="margin: 0;">Hi there!</h1>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px" alt="wave" />
-</div>
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px" alt="wave" />
 
 <div align="center">
 
